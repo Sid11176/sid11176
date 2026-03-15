@@ -1,4 +1,4 @@
-Hi, I'm John Paul Villaban
+Hi, I'm Engr. Paul
 
 Registered Electrical Engineer from Cebu City, Philippines with a background in electrical systems, programming, and data analysis.
 
