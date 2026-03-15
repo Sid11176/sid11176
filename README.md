@@ -6,6 +6,4 @@ I work with Python, SQL, Pandas, and MATLAB to analyze data and build small tech
 
 Skills: Python, Java, SQL, Pandas, Matplotlib, Git, MATLAB, AutoCAD, ETAP
 
-Project: Philippine Energy Consumption Analysis using Python and Pandas (published on Kaggle)
-
 Contact: johnpaul.villaban@gmail.com
