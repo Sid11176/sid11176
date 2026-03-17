@@ -7,4 +7,5 @@ I work with Python, SQL, Pandas, and MATLAB to analyze data and build small tech
 Skills: Python, Java, SQL, Pandas, Matplotlib, Git, MATLAB, AutoCAD, ETAP
 
 Contact: johnpaul.villaban@gmail.com
-![Cool GIF](https://media.giphy.com/media/xyz123/giphy.gif)
+
+![Sasuke GIF](https://www.gifcen.com/wp-content/uploads/2022/12/sasuke-gif-3.gif)
