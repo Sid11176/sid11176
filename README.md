@@ -8,4 +8,4 @@ Skills: Python, Java, SQL, Pandas, Matplotlib, Git, MATLAB, AutoCAD, ETAP
 
 Contact: johnpaul.villaban@gmail.com
 
-![Sasuke GIF](https://www.gifcen.com/wp-content/uploads/2022/12/sasuke-gif-3.gif)
+![Sasuke GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0cW9hY2pjdDc3MHhuZjZ6Ynh3MzJzZW5ubzNnZWwzZ282dXo4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif)
