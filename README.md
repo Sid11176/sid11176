@@ -6,11 +6,11 @@ I work with Python, SQL, Pandas, and MATLAB to analyze data and build technical 
 
 My interests include:
 
-Data analytics
-Automation
-Machine learning and artificial intelligence
-Power systems
-Control systems
+- Data analytics
+- Automation
+- Machine learning and artificial intelligence
+- Power systems
+- Control systems
 
 Skills:
 Python, Java, SQL, Pandas, Machine Learning, MATLAB, AutoCAD, ETAP
