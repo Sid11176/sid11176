@@ -4,7 +4,7 @@ Registered Electrical Engineer from Cebu City, Philippines with a background in 
 
 I work with Python, SQL, Pandas, and MATLAB to analyze data and build small technical projects. My interests include data analytics, automation, engineering, machine learning, artificial intelligence, power and control systems, and applying programming to engineering problems.
 
-Skills: Python, Java, SQL, Pandas, Matplotlib, Git, MATLAB, AutoCAD, ETAP
+Skills: Python, Java, SQL, Pandas, Machine Learning, MATLAB, AutoCAD, ETAP
 
 Contact: johnpaul.villaban@gmail.com
 
