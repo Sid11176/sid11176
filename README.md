@@ -15,4 +15,4 @@ Control systems
 Skills:
 Python, Java, SQL, Pandas, Machine Learning, MATLAB, AutoCAD, ETAP
 
-![Gojo Satoru GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0cW9hY2pjdDc3MHhuZjZ6Ynh3MzJzZW5ubzNnZWwzZ282dXo4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif)
+![Gojo Satoru GIF](https://tenor.com/el/view/gojo-satoru-gif-949319236308169219)
