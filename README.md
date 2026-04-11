@@ -8,7 +8,7 @@ My interests include:
 
 - Data analytics
 - Automation
-- Machine learning and artificial intelligence
+- Machine learning, Artifical Intelligence, and Agentic Engineering
 - Power systems
 - Control systems
 
