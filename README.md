@@ -29,7 +29,7 @@ Currently working on a **protection coordination study** based on the IEEE 13-no
 
 Isolation Forest-based monitoring system for a 22-unit solar inverter dataset. Engineered time-series features from inverter performance metrics, achieving a **1.57% false positive rate**. Deployed as REST API endpoints for real-time and batch inference.
 
-[View Repository →](https://github.com/Sid11176/Machine_Learning_Output)
+[View Repository →](https://github.com/Sid11176/Machine_Learning_Output/tree/53250f5a831286bb5248076c1ca088dbec212cd2/SolarAnomalyDetection_IsolationForestModel1)
 
 ---
 
