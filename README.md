@@ -1,5 +1,5 @@
 <h1 align="center">John Paul T. Villaban</h1>
-<h3 align="center">Registered Electrical Engineer · Power Systems · Data Analytics · Python</h3>
+<h3 align="center">Registered Electrical Engineer · Network Engineering · Python · Data Analytics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/john-paul-villaban-387429190/">
@@ -16,18 +16,36 @@
 
 ## About
 
-I'm a licensed Electrical Engineer building at the intersection of **power systems** and **data analytics**. My focus is applying Python and machine learning to real engineering problems — anomaly detection, energy analysis, and protection coordination — rather than treating them as separate disciplines.
+I'm a **Registered Electrical Engineer** with an interest in network engineering, IT infrastructure, and data-driven problem solving.
 
-Currently working on a **protection coordination study** based on the IEEE 13-node test feeder, combining ETAP fault analysis with Python-automated TCC plotting and relay coordination checking.
+My technical interests span electrical engineering, computer networking, and software development. I'm currently developing my networking and infrastructure skills through hands-on laboratories involving Cisco devices, network configuration, troubleshooting, and network fundamentals.
+
+I also work with **Python, SQL, and data analytics**, applying programming and analytical techniques to practical engineering and technical problems.
+
+My goal is to build a strong foundation in network engineering and IT infrastructure while continuing to develop my programming and automation capabilities.
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### 🇵🇭 Philippine Energy Consumption Analysis
+### 1. Campus Network and Remote Branch Lab
+> Cisco Packet Tracer · Switching · Routing · VLANs · Network Troubleshooting
+
+Designed and documented a small campus network connected to a remote branch, incorporating:
+
+- VLAN segmentation (ADMIN, USERS, and IT).
+- 802.1Q trunking and inter-VLAN routing using Router-on-a-Stick.
+- Spanning Tree Protocol (PVST) and redundant switch links.
+- Static routing between campus and remote branch networks.
+- Network connectivity verification and troubleshooting.
+- Documented configurations, topology, and troubleshooting scenarios.
+
+### 2. 🇵🇭 Philippine Energy Consumption Analysis
 > Python · Pandas · Matplotlib
 
-Analysis of 20+ years of national electricity consumption data to identify demand trends and seasonal load patterns. Calculated a **4.3% average annual growth rate** as a baseline for long-term grid planning.
+Analyzed over 20 years of Philippine electricity consumption data to identify demand trends and seasonal load patterns.
+
+Calculated a **4.3% average annual growth rate**, providing a baseline for understanding long-term electricity demand.
 
 [View Repository →](https://github.com/Sid11176/philippine-energy-analysis)
 
@@ -35,21 +53,27 @@ Analysis of 20+ years of national electricity consumption data to identify deman
 
 ## Technical Skills
 
-| Domain | Tools |
+| Domain | Tools & Technologies |
 |---|---|
-| Power Systems & Protection | ETAP, fault analysis, relay coordination, IEC 60255 |
-| Data Analysis & ML | Python, Pandas, Scikit-learn, Matplotlib, SQL |
+| Networking & Infrastructure | Cisco Packet Tracer, VLANs, Switching, Routing, 802.1Q, STP/PVST |
+| Programming & Automation | Python, FastAPI, REST APIs, Git, GitHub |
+| Data Analysis | Pandas, NumPy, Matplotlib, SQL, Power BI |
+| Power Systems & Protection | ETAP, Fault Analysis, Relay Coordination, IEC 60255 |
 | Engineering Software | MATLAB, AutoCAD, DIALux |
-| Development & APIs | FastAPI, REST APIs, Git, GitHub |
+| Systems & Network Tools | Linux (WSL2), Wireshark |
 
 ---
 
 ## Background
 
-- **Registered Electrical Engineer (REE)** — PRC, April 2025
-- **B.S. Electrical Engineering** — Cebu Technological University, *Graduated With Honors*
-- Thesis: *Electrocardiogram Signal Processing and Feature Extraction using MATLAB*
-- Certifications: Intermediate Machine Learning (Kaggle), Accenture ASE Reinvention Program
+- **Registered Electrical Engineer (REE)** — Professional Regulation Commission, April 2025
+- **B.S. Electrical Engineering** — Cebu Technological University, July 2024  
+  Graduated With Honors — Director's Citation, Dean's Merit Award
+- **Undergraduate Thesis:** Electrocardiogram Signal Processing and Feature Extraction using MATLAB
+- **Certifications & Programs:**
+  - Intermediate Machine Learning — Kaggle
+  - Associate Software Engineer Reinvention Program — Accenture
+  - Python Developer Certification — freeCodeCamp
 
 ---
 
