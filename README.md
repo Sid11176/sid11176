@@ -47,6 +47,4 @@ I'm a Registered Electrical Engineer with an interest in building reliable syste
 ---
 <div align="center">
 
-<br/><br/>
 *fortiter et fideliter*
-</div>
