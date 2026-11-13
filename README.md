@@ -1,25 +1,25 @@
- <div align="center">
+<div align="center">
 
-# JOHN PAUL VILLABAN
-### Electrical Engineer · Network Engineering · Python & Data
+## John Paul Villaban
+
+**Electrical Engineer · Network Engineering · Python & Data**
+
+📍 Cebu City, Philippines &nbsp;|&nbsp; ⚡ Registered Electrical Engineer
+
 <br/>
+
 <a href="https://www.linkedin.com/in/john-paul-villaban-387429190/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:johnpaul.villaban@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<br/><br/>
-
-📍 Cebu City, Philippines &nbsp;|&nbsp; ⚡ Registered Electrical Engineer
 
 </div>
 
 ---
 
-
-I'm a Registered Electrical Engineer with an interest in building reliable systems through engineering, networking, and software. I enjoy exploring how technology connects physical infrastructure with data-driven solutions.
-
+I'm a Registered Electrical Engineer building reliable systems across three areas: **power engineering**, **network infrastructure**, and **data-driven software**. I like problems where physical infrastructure and software meet — designing the network, then writing the tool that measures it.
 
 **Engineering & Power Systems**
 
@@ -45,6 +45,9 @@ I'm a Registered Electrical Engineer with an interest in building reliable syste
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
 <div align="center">
 
-*fortiter et fideliter*
+<sub><i>fortiter et fideliter</i></sub>
+
+</div>
