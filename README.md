@@ -47,10 +47,6 @@ I'm a Registered Electrical Engineer with an interest in building reliable syste
 ---
 <div align="center">
 
-### GITHUB ACTIVITY
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sid11176&theme=dark" width="100%" alt="GitHub Profile Summary"/>
-
 <br/><br/>
 *fortiter et fideliter*
 </div>
